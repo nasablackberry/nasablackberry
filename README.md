@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm nasablackberry</h1>
 <h3 align="center">A passionate developer from India</h3>
-<h3 align="center">I'm interested in Python, C++, HTML, CSS </h3>
+<h3 align="center">I'm interested in Python, C++ </h3>
 📫 How to reach me: singhshivank@0605@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasablackberry&label=Profile%20views&color=0e75b6&style=flat" alt="nasablackberry" /> </p>
